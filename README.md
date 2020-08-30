@@ -5,17 +5,17 @@
 
 ## I'm a Backend Developer!
 
-- 🌱 I’m currently learning spring, jpa, build 🤣
+- 🌱 I’m currently learning spring, jpa 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Contribute to Open Source projects
+<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 - :e-mail: How to reach me : tlfanfvk@naver.com
 
 
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
-[<img align="left" alt="tistory" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="tistory" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 
 <!-- <br />
@@ -40,11 +40,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist] -->
 
 <br />
-<br />
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -53,7 +52,7 @@
 
 
 
-[website]: https://j-brick.tistory.com/
+<!-- [website]: https://j-brick.tistory.com/ -->
 <!-- [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
