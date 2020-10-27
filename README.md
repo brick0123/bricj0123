@@ -5,8 +5,8 @@
 
 ## I'm a Backend Developer!
 
-- 🌱 I’m currently learning spring, jpa 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning spring-boot, jpa 
+- 👯 Portfolio : https://www.notion.so/60a50ba1582e4eacb931fc22d9eb8747
 - 🥅 2020 Goals: Contribute to Open Source projects
 - :e-mail: How to reach me : tlfanfvk@naver.com
 
