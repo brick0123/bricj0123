@@ -2,9 +2,9 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## Hi ! 👋
+##  👋
 
-- 🌱 I’m currently learning spring-boot, jpa 
+- 🌱 I’m currently learning spring-boot, jpa, REST API
 - 📝 Blog : https://j-brick.tistory.com/
 - 👯 Portfolio : https://www.notion.so/60a50ba1582e4eacb931fc22d9eb8747
 - :e-mail: How to reach me : tlfanfvk@gmail.com
