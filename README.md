@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning spring-boot, jpa, REST API
 - 📝 Blog : https://j-brick.tistory.com/
-- 👯 Portfolio : https://www.notion.so/60a50ba1582e4eacb931fc22d9eb8747
+<!-- - 👯 Portfolio : https://www.notion.so/60a50ba1582e4eacb931fc22d9eb8747 -->
 - :e-mail: How to reach me : tlfanfvk@gmail.com
 
 
