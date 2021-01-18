@@ -4,7 +4,7 @@
 
 ##  👋
 
-- 🌱 I’m currently learning spring-boot, jpa, REST API
+<!-- - 🌱 I’m currently learning spring-boot, jpa, REST API -->
 - 📝 Blog : https://j-brick.tistory.com/
 - :e-mail: How to reach me : tlfanfvk@gmail.com
 
