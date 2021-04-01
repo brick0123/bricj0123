@@ -5,13 +5,13 @@
 ##  👋
 
 <!-- - 🌱 I’m currently learning spring-boot, jpa, REST API -->
-- 📝 Blog : https://woodcock.tistory.com
+<!-- - 📝 Blog : https://woodcock.tistory.com -->
 - :e-mail: How to reach me : tlfanfvk@gmail.com
 
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brick0123&include_all_commitse=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brick0123&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
