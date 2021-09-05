@@ -7,6 +7,7 @@
 <!-- - 🌱 I’m currently learning spring-boot, jpa, REST API -->
 <!-- - 📝 Blog : https://woodcock.tistory.com -->
 - :e-mail: How to reach me : tlfanfvk@gmail.com
+- 🌱 Interest: Spring, ORM, OOP, Clean code, k8s, MSA
 
 
 <br />
